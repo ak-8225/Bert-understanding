@@ -1,0 +1,21 @@
+{
+  "nmi": 0.7426198449847046,
+  "ari": 0.6749899499613424,
+  "purity": 0.7794389073458841,
+  "outlier_pct": 0.7510533064663871,
+  "coherence_cv": 0.5311735139216471,
+  "coherence_npmi": -0.022626102701556367,
+  "lda_coherence_cv": 0.452212181554345,
+  "lda_coherence_npmi": 0.005946704746038866,
+  "stability_score": 0.8857142857142858,
+  "n_topics_found": 5,
+  "n_docs": 5459,
+  "category_names": [
+    "comp.graphics",
+    "rec.autos",
+    "rec.sport.baseball",
+    "sci.med",
+    "sci.space",
+    "talk.politics.guns"
+  ]
+}

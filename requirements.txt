@@ -1,0 +1,9 @@
+streamlit
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+plotly
+pandas
+scikit-learn
+safetensors
